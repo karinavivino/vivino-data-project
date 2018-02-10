@@ -1,4 +1,4 @@
-# beer_database
+# Beer-data-project
 
 I want to learn to code a web scraper in Python, make a database, then make interesting interactive visualisations of the data on a website that I make from scratch using Javascript/HTML/CSS. Perhaps also use SQL.
 
