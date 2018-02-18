@@ -1,19 +1,24 @@
-# Beer-data-project
+# Vivino-data-project
 
-I want to:
+Aims:
 
-- learn to code a web scraper in Python,
+- learn to code a web scraper in Python for data extraction from Vivino website,
 - make a database (perhaps with the help of SQL),
 - make a website from scratch using Javascript/HTML/CSS,
 - make interesting interactive visualisations of the data on the website.
 
 Data:
 
-If I decide not to web scrape, here is a pre-made database:
-Open beer database (not up-to-date, Feb 2018) - http://openbeerdb.com/
+https://www.vivino.com/
 
-Website:
+Output website:
 
-https://karinaoneill.github.io/Beer-data-project/final.html
+https://karinaoneill.github.io/vivino-data-project/final.html
 
+
+
+Data Extraction - Webscraper:
+
+Use Python
+Choose Scrapy over Beautifulsoup, because of the size of the data and Scrapy downloads HTML, which I think i'll need (explain this more).
 
