@@ -26,3 +26,8 @@ https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautiful
 https://scrapy.org/
 https://nycdatascience.com/blog/student-works/web-scraping-analysis-wines-vivino-com/
 https://blog.michaelyin.info/2017/08/10/scrapy-tutorial-1-scrapy-vs-beautiful-soup/
+
+
+Notes:
+
+Why was web scraper not used at the beginning, i.e. why was database started manually?
