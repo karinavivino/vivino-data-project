@@ -5,7 +5,7 @@ Aims:
 - learn to code a web scraper in Python for data extraction from Vivino website,
 - make a database (perhaps with the help of SQL),
 - make a website from scratch using Javascript/HTML/CSS,
-- make interesting interactive visualisations of the data on the website, maybe using some ML if possible.
+- make interesting interactive visualisations of the data on the website, maybe using some machine learning if possible.
 
 Data:
 
@@ -13,7 +13,7 @@ https://www.vivino.com/
 
 Output website:
 
-https://karinaoneill.github.io/vivino-data-project/final.html
+https://karinaoneill.github.io/vivino-data-project/index.html
 
 
 
@@ -29,5 +29,3 @@ https://blog.michaelyin.info/2017/08/10/scrapy-tutorial-1-scrapy-vs-beautiful-so
 
 
 Notes:
-
-Why was web scraper not used at the beginning, i.e. why was database started manually?
