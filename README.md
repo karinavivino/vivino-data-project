@@ -5,7 +5,7 @@ Aims:
 - learn to code a web scraper in Python for data extraction from Vivino website,
 - make a database (perhaps with the help of SQL),
 - make a website from scratch using Javascript/HTML/CSS,
-- make interesting interactive visualisations of the data on the website.
+- make interesting interactive visualisations of the data on the website, maybe using some ML if possible.
 
 Data:
 
